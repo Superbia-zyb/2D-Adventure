@@ -5,3 +5,8 @@
 Ps: Game文件夹存放着已经打包的游戏，down下来**整个文件夹**，运行exe即可。
 
 Be made by Superbia_zyb
+
+![1](img/1.png)
+
+
+![2](img/2.png)
