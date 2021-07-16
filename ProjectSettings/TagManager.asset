@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - enemy
+  - Door
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - Enemy
+  - OneWayPlatform
+  - TriggerBox
+  - Ladder
+  - MovePlatform
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1561315273
+    locked: 0
+  - name: Ground
+    uniqueID: 3654949045
+    locked: 0
+  - name: OneWayPlatform
+    uniqueID: 3905786555
+    locked: 0
+  - name: Torch
+    uniqueID: 200456361
+    locked: 0
+  - name: Ladder
+    uniqueID: 2186018013
+    locked: 0
+  - name: Enemy
+    uniqueID: 893024151
+    locked: 0
+  - name: Player
+    uniqueID: 2828985125
+    locked: 0
